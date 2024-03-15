@@ -7,14 +7,7 @@ const Library = () => {
   const onClick = () => {};
   return (
     <div className="flex flex-col">
-      <div
-        className="
-                flex 
-                items-center
-                justify-between
-                px-5
-                py-4"
-      >
+      <div className="flex items-center justify-between px-5 py-4">
         <div
           className=" inline-flex
                     items-center
@@ -51,4 +44,3 @@ const Library = () => {
 };
 
 export default Library;
-
